@@ -1,2 +1,9 @@
-# Python_projects
-This is my space where I enhance my Python skills. It motivates me to share my code and track my progress.
+<h1 align="center">Python space</h1>
+<h3 align="center">This is the place where you can review my journey with the Python language.</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
