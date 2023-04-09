@@ -1,7 +1,7 @@
 <h1 align="center">Python space</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/coxQHKASG60HrHtvkt"></a></p>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" style="max-width: 480px;" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/coxQHKASG60HrHtvkt"></a></p>
 </p>
 
 <h3 align="center">This is the place where you can review my journey with the Python language.</h3>
