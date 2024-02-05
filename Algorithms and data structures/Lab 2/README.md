@@ -1,4 +1,4 @@
-##The Tower of Hanoi problem involves rebuilding a tower of disks with different diameters while maintaining their shape. During the transfer, it is allowed to use a buffer in the form of an additional pole. Operations are performed with the assumption that it is not allowed to place a disk with a larger diameter on top of a smaller one or move multiple disks at once.##
+## The Tower of Hanoi problem involves rebuilding a tower of disks with different diameters while maintaining their shape. During the transfer, it is allowed to use a buffer in the form of an additional pole. Operations are performed with the assumption that it is not allowed to place a disk with a larger diameter on top of a smaller one or move multiple disks at once.
 
 ![image](/home/piotr/Desktop/Algorithms and data structures/Lab 2/img2.png)
 
