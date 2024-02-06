@@ -19,6 +19,7 @@ Hanoi(n, sour, dest, buff):
 # Task 2
 ### Implement an iterative algorithm to solve the Tower of Hanoi problem. The algorithm should count the number of steps required and sequentially print the moves leading to the problem's solution. Below is the algorithm represented in pseudo-code, where the variable n represents the number of disks, and i represents the step number, while the variables sour, dest, buff represent the source pole, target pole, and auxiliary pole respectively.
 
+```
 Hanoi(n, sour, dest, buff):
 	WHILE (sour != Null OR buff !=Null):
 		IF i%3 == 1:
@@ -27,7 +28,7 @@ Hanoi(n, sour, dest, buff):
 			Possible move disk between sour and buff
 		IF i%3 == 0:
 			Possible move disk between buff and dest
-
+```
 Note: It is important to check in which direction the move is possible and indicate from which pole to which the move should be made.
 
 # Task 3
