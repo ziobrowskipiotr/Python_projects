@@ -6,7 +6,7 @@
 ### So, we are looking for all occurrences of the sequence ABC horizontally and vertically, which share the symbol A. To test the algorithm, please use the attached text files: N_pattern.txt (where N denotes the size of the NxN symbol matrix, N = 1000, 2000, 3000, 4000, 5000, 8000).
 
 # Task 1
-##Implement the naive two-dimensional pattern search algorithm in the text. Use a 1000x1000 matrix for testing.
+### Implement the naive two-dimensional pattern search algorithm in the text. Use a 1000x1000 matrix for testing.
 
 # Task 2
 ### Implement the Karp-Rabin two-dimensional pattern search algorithm in the text. Use a 1000x1000 matrix for testing.
